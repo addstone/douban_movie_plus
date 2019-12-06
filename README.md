@@ -13,6 +13,38 @@
 
 https://movie.doubans.com
 
+---
+
+
+
+# 1.0版本截图
+
+![](./image/example/page1.png)
+
+
+
+![](./image/example/page2-1.png)
+
+
+
+![](./image/example/page2-2.png)
+
+
+
+![](./image/example/page2-3.png)
+
+
+
+![](./image/example/page2-4.png)
+
+
+
+![](./image/example/page3.png)
+
+
+
+
+
 # 相比于[豆瓣电影](https://movie.douban.com)官网:
 
 - 前端采用Vue框架，后端采用SSM框架
